@@ -1,0 +1,1 @@
+var json_Paramillos_9 = {"type":"FeatureCollection","name":"Paramillos_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nombre":"Paramillo de las Vacas"},"geometry":{"type":"MultiPoint","coordinates":[[-69.768823904447416,-32.695483566106489]]}}]}
